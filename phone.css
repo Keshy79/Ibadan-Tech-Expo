@@ -1,4 +1,7 @@
 @media (max-width:478px) {
+    html, body {
+        overflow-x: hidden;
+    }
     #nav{
         margin-left: 0px;
     }
